@@ -2239,8 +2239,8 @@ span.match { background: rgba(191, 54, 12, 0.25); }
 
 #convo_tab #convo_tab_btns .close_flexpane:focus, #convo_tab #convo_tab_btns .close_flexpane:hover { color: #e6e6e6; }
 
-
-.inline_file_upload.active,.inline_file_upload.focus-ring,.inline_file_upload:focus,.inline_file_upload:hover{background:#949494;border-color:#008952}
+#convo_tab .message_input,#convo_tab textarea#msg_text{width:100%;color: #e6e6e6;background: #545454;}
+.inline_file_upload.active,.inline_file_upload.focus-ring,.inline_file_upload:focus,.inline_file_upload:hover{background:#949494;border-color:#545454}
 .inline_file_upload.active .upload_plus_icon,.inline_file_upload.focus-ring .upload_plus_icon,.inline_file_upload:focus .upload_plus_icon,.inline_file_upload:hover .upload_plus_icon{color:#fff}
 .inline_file_upload{position:absolute;top:-1px;bottom:-1px;left:-1px;background: #545454;min-height:34px;width:36px;border:1px solid transparent;border-right:1px solid #919193;border-bottom-left-radius:.25rem;border-top-left-radius:.25rem;color:#919193;}
 
